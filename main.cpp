@@ -2,8 +2,8 @@
 This example is compatible with ICS IoT Egg device (mbed lpc1768).
 2017-04-20 by Jihoon Yang <j.yang@surrey.ac.uk>
 
-Temperature and humidity values are sending to IoTEgg App via BLE. 
-And also it can change the RGB LED color by receiving LED value from IoTEgg App via BLE.
+Temperature and humidity values are sending to IoTEggBLE (Android App) via BLE. 
+And also it can change the RGB LED color by receiving LED value from IoTEggBLE (Android App) via BLE.
 
 ICS IoT Egg BLE Breakout Board has been designed by William Headley <w.headley@surrey.ac.uk>
 - BLE RST pin: P0_5
